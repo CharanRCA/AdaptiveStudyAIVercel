@@ -1,0 +1,1 @@
+// QuestionHistory entity
